@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="style7.css">
+  <title>website ketujuh</title>
+</head>
+<body>
+  
+  <div class="container-satu">
+    <div class="kolom-utama">
+      <h2>Minuman Viral</h2>
+      <p>Minuman ini dibuat dari buah buahan yang segar dan sehat dengan buah pilihan terbaik dari yang terbaik, selain itu kopi juga dibuat dengan biji kopi pilihan yang tentunya dari bahan tersebut mempunyai banyak manfaat.</p>
+      <p>Kelebihanya adalah Mencegah penyakit Alzheimer, Mencegah penyakit jantung, Meningkatkan sistem kekebalan tubuh, Memenuhi kebutuhan vitamin dan mineral harian, Meningkatkan kesehatan tulang, Mencegah dehidrasi, Menjaga kesehatan kulit.</p>
+      <p>Manfaat jus buah yang dapat diberikan ialah menurunkan berat badan karena kaya serat, meningkatkan sistem imun tubuh karena mengandung banyak vitamin, sedangkan kopi mengonsumsi kopi secara rutin dapat membantu mengurangi penurunan fungsi otak Manfaat kopi untuk kesehatan selanjutnya adalah mengurangi risiko penyakit diabetes tipe 2.</p>
+    </div>
+    <div class="sidebar-satu">
+      <h3>Link Foto</h3>
+      <ul>
+        <li><a href="https://www.instagram.com/p/B61pYvdJUtq/?igshid=MzRlODBiNWFlZA==">Link 1</a></li>
+        <li><a href="https://www.instagram.com/p/CkiZM59pjSq/?igshid=MzRlODBiNWFlZA==">Link 2</a></li>
+        <li><a href="https://www.instagram.com/p/CNEi0kel05i/?igshid=MzRlODBiNWFlZA==">Link 3</a></li>
+        <li><a href="https://www.instagram.com/p/CkiafW-JVsF/?igshid=MzRlODBiNWFlZA==">Link 4</a></li>
+        <li><a href="https://www.instagram.com/p/B5aVrezAjS8/?igshid=MzRlODBiNWFlZA==">Link 5</a></li>
+        <li><a href="https://www.instagram.com/p/B7AIuLYH501/?igshid=MzRlODBiNWFlZA==">Link 6</a></li>
+      </ul>
+       
+      
+    </div>
+    <div class="sidebar-dua">
+      <h3>Varian rasa</h3>
+      <p>Alpukat, Durian, Buah Naga, Cokelat, Red Velvet, Taro, Mangga, Cappucino, Matcha Latte, Tiramisu, Milo, Milshake, dll.</p>
+    </div>
+ 
+  </div>
+  
+  <div class="container-dua">
+    <div class="layanan satu">
+      <h4>Es Kopi</h4>
+      <p>Sebuah minuman yang terbuat dari campuran kopi dan susu yang disajikan bersama mirip dengan susu coklat.</p>
+    </div>
+    <div class="layanan dua">
+      <h4>Es Alpukat</h4>
+      <p>Alpukat kocok merupakan salah satu minuman kekinian yang populer dan banyak diminati oleh masyarakat. Minuman ini dibuat dari bahan dasar buah alpukat yang dipotong dan dihaluskan kasar</p>
+    </div>
+    <div class="layanan tiga">
+      <h4>Es Mangga</h4>
+      <p>Camilan berbahan dasar buah mangga yang dipotong-potong, kemudian ditumbuk atau dikocok dengan sendok dan disajikan dengan air gula dan susu.</p>
+    </div>
+        <div class="layanan empat">
+      <h4>Es Durian</h4>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, beatae.</p>
+    </div>
+    <div class="layanan lima">
+      <h4>Es Taro</h4>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, non facilis quibusdam sequi sapiente quaerat!</p>
+    </div>
+    <div class="layanan enam">
+      <h4>Es Naga</h4>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora omnis aspernatur vel nobis deserunt dolore libero molestiae recusandae!</p>
+    </div>
+  </div>
+</div>
+  
+</body>
+</html>
